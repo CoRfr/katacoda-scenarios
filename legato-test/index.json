@@ -3,15 +3,12 @@
   "description": "Learning how to interact with a Legato target",
   "details": {
     "steps": [
-      {
-        "title": "Connect to your target",
-        "text": "step1.md",
-        "courseData": "courseBase.sh"
-      }
+      { "title": "Connect to your target", "text": "step1.md" }
     ]
   },
   "intro": {
-    "text": "intro.md"
+    "text": "intro.md",
+    "courseData": "courseBase.sh"
   },
   "environment": {
     "uilayout": "terminal"
