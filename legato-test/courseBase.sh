@@ -1,3 +1,5 @@
+#!/bin/bash
+
 docker pull quay.io/legato/virt-x86
 
 # Make repo available
