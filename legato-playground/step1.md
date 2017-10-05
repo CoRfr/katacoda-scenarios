@@ -1,7 +1,7 @@
-Once the target is started, you can login using `root`.
+Once the target is started, you can login using `root`{{execute}}.
 Password is empty by default.
 
-To list existing apps and their status, use `app status`
+To list existing apps and their status, use `app status`{{execute}}.
 
-Use `legato version` to print the current Legato version.
+Use `legato version`{{execute}} to print the current Legato version.
 
