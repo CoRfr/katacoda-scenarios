@@ -1,20 +1,21 @@
 {
   "title": "Legato Test",
   "description": "Learning how to interact with a Legato target",
+  "difficulty": "beginner",
   "details": {
-    "intro": {
-      "text": "intro.md",
-      "courseData": "courseBase.sh"
-    },
     "steps": [
       {
         "title": "Connect to your target",
         "text": "step1.md"
       }
-    ]
+    ],
+    "intro": {
+      "text": "intro.md",
+      "courseData": "courseBase.sh"
+    }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "terminal-terminal"
   },
   "backend": {
     "imageid": "docker"
