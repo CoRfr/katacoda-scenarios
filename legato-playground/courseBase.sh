@@ -15,3 +15,4 @@ mkdir -p workspace
 cd workspace
 repo init -u git://github.com/legatoproject/manifest
 repo sync
+
