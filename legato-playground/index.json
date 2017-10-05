@@ -6,11 +6,13 @@
     "steps": [
       {
         "title": "Connect to your target",
-        "text": "step1.md",
-        "courseData": "courseBase.sh",
-        "code": "intro.sh"
+        "text": "step1.md"
       }
-    ]
+    ],
+    "intro": {
+      "courseData": "courseBase.sh",
+      "code": "intro.sh"
+    } 
   },
   "environment": {
     "uilayout": "terminal"
